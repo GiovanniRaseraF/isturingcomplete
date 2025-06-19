@@ -2,6 +2,8 @@
 
 You can contribute via GitHub by submitting a pull request. I'll review it.
 
+If you have suggestions or issues to report please open a new Issue on Git.
+
 ## Creating a Page
 
 1. Create a new file in the `source` folder using either **reStructuredText** or **Markdown**.

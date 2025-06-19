@@ -3,6 +3,7 @@ build_serve:
 	make serve
 
 env:
+	make clean
 	mkdir ./env ; python3 -m venv ./env && source ./env/bin/activate &&\
 	( pip install -U sphinx ; pip install -U myst-parser )
 
@@ -10,7 +11,7 @@ quickstart:
 	source ./env/bin/activate && sphinx-quickstart
 
 html:
-	rm -rf ./build ; source ./env/bin/activate && sphinx-build -b html ./source ./build
+	source ./env/bin/activate && sphinx-build -b html ./source ./build
 
 pdf:
 	rm -rf ./pdf_build ; source ./env/bin/activate && sphinx-build -b pdf ./source ./pdf_build

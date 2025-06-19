@@ -7,4 +7,6 @@ This means that with that **thing** you can compute all that is computable.
 .. toctree::
    :hidden:
 
-   contacts.rst
+   contributions.rst
+   howtocontribute.md
+   examples/examples.rst
