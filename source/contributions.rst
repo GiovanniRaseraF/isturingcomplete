@@ -1,7 +1,7 @@
 Contributions
 =============
 
-Send you contributions using GitHub.
+Send your contributions using GitHub.
 
 This project is a collaboration project created by
     - [Giovanni Rasera](https://github.com/GiovanniRaseraF) : idea for the site
