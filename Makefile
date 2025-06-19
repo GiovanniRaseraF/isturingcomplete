@@ -3,7 +3,8 @@ build_serve:
 	make serve
 
 env:
-	mkdir ./env ; python3 -m venv ./env && source ./env/bin/activate && pip install -U sphinx
+	mkdir ./env ; python3 -m venv ./env && source ./env/bin/activate &&\
+	( pip install -U sphinx ; pip install -U myst-parser )
 
 quickstart:
 	source ./env/bin/activate && sphinx-quickstart
