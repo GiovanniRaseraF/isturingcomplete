@@ -23,3 +23,6 @@ clean_env:
 
 clean:
 	rm -r ./build
+
+p:
+	git add . && git commit && git push
