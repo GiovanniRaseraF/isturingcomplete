@@ -1,8 +1,10 @@
 # How to Contribute
 
-You can contribute via GitHub by submitting a pull request. I'll review it.
+You can contribute via [GitHub](https://github.com/GiovanniRaseraF/isturingcomplete) by submitting a pull request. I'll review it.
 
-If you have suggestions or issues to report please open a new Issue on Git.
+Refer to [./source/examples/X.md"](http://localhost:8000/examples/X.html) to understand how to write a post.
+
+If you have suggestions or issues to report please [open a new Issue on Git](https://github.com/GiovanniRaseraF/isturingcomplete/issues).
 
 ## Creating a Page
 

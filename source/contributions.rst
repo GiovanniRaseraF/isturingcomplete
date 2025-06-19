@@ -4,8 +4,8 @@ Contributions
 Send you contributions using GitHub.
 
 This project is a collaboration project created by
-    - Giovanni Rasera : idea for the site
-    - Lorenzo Mancini : emotional support
+    - [Giovanni Rasera](https://github.com/GiovanniRaseraF) : idea for the site
+    - [Lorenzo Mancini](https://github.com/ManciniLorenzo) : emotional support
     - Gian : just beeing a cat
 
 .. toctree::
