@@ -26,4 +26,5 @@ exclude_patterns = []
 
 html_theme = 'sphinx_book_theme'
 html_title = "Is Turing Complete"
+html_logo= "./_static/logo.png"
 html_static_path = ['_static']
